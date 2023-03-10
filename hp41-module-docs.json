@@ -223,7 +223,7 @@
   "BELP": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "ELLIPSOID Module",
       "reference": "http://hp41.deringenieur.net/file/Ellipsoid.html"
     }
   ],
@@ -231,7 +231,7 @@
   "BESL": [
     {
       "category": "QRG",
-      "title": "+++todo+++ set title",
+      "title": "Bessel Functions Module",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=945"
     }
   ],
@@ -241,7 +241,7 @@
   "BLDR": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "BLDROM Manual 1D ",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=651"
     }
   ],
@@ -250,7 +250,7 @@
   "BPDE": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "Partial Differential Equations Module",
       "reference": "http://hp41.deringenieur.net/file/Partial%20Differential%20Equations.html"
     }
   ],
@@ -261,7 +261,12 @@
   "BSMS": [
     {
       "category": "Book",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Users' Library Solutions: Business Stat/Marketing/Sales",
+      "reference": "https://literature.hpcalc.org/items/816"
+    },
+    {
+      "category": "Book",
+      "title": "HP-41 Users' Library Solutions: Business Stat/Marketing/Sales",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=361"
     }
   ],
@@ -273,21 +278,31 @@
   "CAB4": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://www.hp41.org/file/cab41.zip"
+      "title": "CAB41 Balancing Module",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1312"
     }
   ],
   "CCDA": [
     {
-      "category": "Manual",
-      "title": "+++todo+++ set title",
+      "category": "Manua, QRG, Blueprint",
+      "title": "CCD Advanced Pac",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=990"
     }
   ],
   "CCDR": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "CCD Nodule Owner's Manual",
+      "reference": "https://literature.hpcalc.org/items/1187"
+    },
+    {
+      "category": "QRG",
+      "title": "CCD Module Quick Reference Guide",
+      "reference": "hhttps://literature.hpcalc.org/items/1188"
+    },
+    {
+      "category": "Manual",
+      "title": "CCD Nodule Owner's Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=414"
     }
   ],
@@ -295,7 +310,12 @@
   "CENG": [
     {
       "category": "Book",
-      "title": "+++todo+++ set title",
+      "title": "Chemical Engineering Solutions",
+      "reference": "https://literature.hpcalc.org/items/821"
+    },
+    {
+      "category": "Book",
+      "title": "Chemical Engineering Solutions",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=348"
     }
   ],
@@ -303,7 +323,12 @@
   "CHEM": [
     {
       "category": "Book",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Users' Library Solutions: Chemistry",
+      "reference": "https://literature.hpcalc.org/items/825"
+    }
+    {
+      "category": "Book",
+      "title": "HP-41 Users' Library Solutions: Chemistry",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=353"
     }
   ],
@@ -311,14 +336,19 @@
   "CIRC": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Circuit Analysis Pac",
+      "reference": "https://literature.hpcalc.org/items/763"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Circuit Analysis Pac",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=356"
     }
   ],
   "CITY": [
     {
       "category": "QRG",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 World Countries and Capital Cities Module",
       "reference": "http://www.systemyde.com/pdf/Countries_QRG.pdf"
     }
   ],
