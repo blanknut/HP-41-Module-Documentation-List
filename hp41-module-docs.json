@@ -450,49 +450,54 @@
   "CRTO": [
     {
       "category": "QRG",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Cryptography Module",
       "reference": "http://www.systemyde.com/pdf/Cripto41_QRG.pdf"
     }
   ],
   "CURV": [
     {
       "category": "QRG",
-      "title": "+++todo+++ set title",
+      "title": "Curve Fitting Module",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=955"
     }
   ],
   "CVPK": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "Cv-PAK User's Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=956"
     }
   ],
   "DA4C": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "DISASM 4C Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=744"
     }
   ],
   "DACQ": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "44468A Data Acquisition/Control Pac Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=468"
+    },
+    {
+      "category": "Brochure",
+      "title": "Using the 3421A/41CV Data Acquisition Pac and the 3056DL Data Logger",
+      "reference": "http://www.jeffcalc.hp41.eu/misc/files/3421_pn1.pdf"
     }
   ],
   "DASM": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "DISASM 4D Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=885"
     }
   ],
   "DAVA": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "David Assembler Owner's Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=520"
     }
   ],
@@ -500,7 +505,7 @@
   "DEMO": [
     {
       "category": "Listing",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 System Demo Listing",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=654"
     }
   ],
@@ -510,14 +515,19 @@
   "DEVI": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "HP-IL Development Module Owner's Manual",
+      "reference": "https://literature.hpcalc.org/items/357"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-IL Development Module Owner's Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=323"
     }
   ],
   "DIFF": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "Differential Equations Manual",
       "reference": "http://hp41.deringenieur.net/file/DIFFEQTN_Manual.html"
     }
   ],
@@ -525,7 +535,7 @@
   "DIIL": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "HP-IL Diagnostic ROM Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=569"
     }
   ],
@@ -548,21 +558,26 @@
   "EEFD": [
     {
       "category": "QRG",
-      "title": "+++todo+++ set title",
-      "reference": "http://hp41.deringenieur.net/file/EE%20Filters%20QRG.pdf"
+      "title": "HP-41 EE Filters Module",
+      "reference": "https://www.systemyde.com/pdf/EE_Filters_QRG.pdf"
     }
   ],
   "EENG": [
     {
       "category": "Book",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Users' Library Solutions: Electrical Engineering",
+      "reference": "https://literature.hpcalc.org/items/829"
+    },
+    {
+      "category": "Book",
+      "title": "HP-41 Users' Library Solutions: Electrical Engineering",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=390"
     }
   ],
   "EILP": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "Extended IL ROM User's Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=359"
     }
   ],
@@ -578,7 +593,7 @@
   "EPTN": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "Trans-Neptunian Planets 2016-2025",
       "reference": "http://hp41.deringenieur.net/file/TRANSNEP.html"
     }
   ],
@@ -586,35 +601,45 @@
   "ETS3": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://hp41.deringenieur.net/file/ETSII%20Colection.pdf"
+      "title": "The ETSII Collection Engineering Programs for the HP-41",
+      "reference": "https://www.systemyde.com/pdf/ETSII_Collection.pdf"
     }
   ],
   "ETS4": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://hp41.deringenieur.net/file/ETSII%20Colection.pdf"
+      "title": "The ETSII Collection Engineering Programs for the HP-41",
+      "reference": "https://www.systemyde.com/pdf/ETSII_Collection.pdf"
     }
   ],
   "ETS5": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://hp41.deringenieur.net/file/ETSII%20Colection.pdf"
+      "title": "The ETSII Collection Engineering Programs for the HP-41",
+      "reference": "https://www.systemyde.com/pdf/ETSII_Collection.pdf"
     }
   ],
   "ETS9": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://hp41.deringenieur.net/file/ETSII%20Colection.pdf"
+      "title": "The ETSII Collection Engineering Programs for the HP-41",
+      "reference": "https://www.systemyde.com/pdf/ETSII_Collection.pdf"
     }
   ],
   "EXIO": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "Extended I/O Module Owner's Manual",
+      "reference": "https://literature.hpcalc.org/items/481"
+    },
+    {
+      "category": "QRG",
+      "title": "Extended I/O Module Quick Reference Card",
+      "reference": "https://literature.hpcalc.org/items/482"
+    },
+    {
+      "category": "Manual",
+      "title": "Extended I/O Module Owner's Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=357"
     }
   ],
