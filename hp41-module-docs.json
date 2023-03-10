@@ -1,0 +1,1746 @@
+{
+  "120M": [],
+  "141B": [],
+  "16CS": [
+    {
+      "category": "Manual",
+      "title": "HP-16C Emulator Module for the HP-41CX",
+      "reference": "http://www.systemyde.com/pdf/HP_16C_Emulator_Manual.pdf"
+    },
+    {
+      "category": "Post",
+      "title": "HP-41: New HP-16C Emulator available",
+      "reference": "https://www.hpmuseum.org/forum/thread-4663.html"
+    }
+  ],
+  "1AST": [],
+  "2AST": [],
+  "2CHM": [],
+  "2SWP": [],
+  "41AD": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Advantage Pac Manual",
+      "reference": "https://literature.hpcalc.org/items/759"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Advantage Pac Manual",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=307"
+    }
+  ],
+  "441Z": [
+    {
+      "category": "Manual",
+      "title": "Complex Number Module for the HP-41",
+      "reference": "http://www.systemyde.com/pdf/41z_44_Manual.pdf"
+    },
+    {
+      "category": "Post",
+      "title": "Introducing the HP-41Z",
+      "reference": "https://archived.hpcalc.org/museumforum/thread-53888.html"
+    }
+  ],
+  "4ALP": [
+    {
+      "category": "QRG",
+      "title": "Alpha ROM Quick Reference Guide",
+      "reference": "http://hp41.deringenieur.net/file/Alpha_QRG.pdf"
+    }
+  ],
+  "4AOS": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/AMMC_OSX_Manual.pdf"
+    }
+  ],
+  "4DIG": [],
+  "4FTH": [],
+  "4LIB": [
+    {
+      "category": "Blueprint",
+      "title": "Library #4 Blueprint",
+      "reference": "http://hp41.deringenieur.net/file/LIBRARY4_N.pdf"
+    },
+    {
+      "category": "Post",
+      "title": "HP-41: Library#4 has released",
+      "reference": "https://www.hpmuseum.org/cgi-sys/cgiwrap/hpmuseum/archv021.cgi?read=222470"
+    }
+  ],
+  "4MTI": [
+    {
+      "category": "Manual",
+      "title": "Matrix Extensions for the HP-41",
+      "reference": "https://www.systemyde.com/pdf/SANDMatrix_5Y_Manual.pdf"
+    }
+  ],
+  "4OS4": [],
+  "4RAM": [
+    {
+      "category": "Manual",
+      "title": "Rampage and Toolbox Module",
+      "reference": "https://www.systemyde.com/pdf/Rampage_Toolbox_Manual.pdf"
+    }
+  ],
+  "4TBX": [
+    {
+      "category": "Manual",
+      "title": "Rampage and Toolbox Module",
+      "reference": "http://www.systemyde.com/pdf/Rampage_Toolbox_Manual.pdf"
+    }
+  ],
+  "4WIN": [],
+  "5LON": [
+    {
+      "category": "Manual",
+      "title": "Path-finding on Subway Networks &ndash; City Metro Maps for the HP-41",
+      "reference": "http://systemyde.com/pdf/Path-Finding_in_Metro_Networks.pdf"
+    }
+  ],
+  "5MAD": [
+    {
+      "category": "Manual",
+      "title": "Path-finding on Subway Networks &ndash; City Metro Maps for the HP-41",
+      "reference": "http://systemyde.com/pdf/Path-Finding_in_Metro_Networks.pdf"
+    }
+  ],
+  "5PAR": [
+    {
+      "category": "Manual",
+      "title": "Path-finding on Subway Networks &ndash; City Metro Maps for the HP-41",
+      "reference": "http://systemyde.com/pdf/Path-Finding_in_Metro_Networks.pdf"
+    }
+  ],
+  "5UBH": [
+    {
+      "category": "Manual",
+      "title": "Path-finding on Subway Networks &ndash; City Metro Maps for the HP-41",
+      "reference": "http://systemyde.com/pdf/Path-Finding_in_Metro_Networks.pdf"
+    }
+  ],
+  "AADV": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Advantage Pac Manual",
+      "reference": "https://literature.hpcalc.org/items/759"
+    },
+    {
+      "category": "Book",
+      "title": "Computer Science on your HP-41",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=579"
+    },
+    {
+      "category": "Book",
+      "title": "Electrical Circuits for Students",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=523"
+    },
+    {
+      "category": "Book",
+      "title": "Statics for Students",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=571"
+    }
+  ],
+  "ABRD": [],
+  "ADV1": [],
+  "ADV2": [],
+  "ADVG": [],
+  "ADVP": [],
+  "AEC3": [],
+  "AECR": [
+    {
+      "category": "Manual",
+      "title": "The AECROM User's Manual",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=581"
+    }
+  ],
+  "AFDE": [],
+  "AFDF": [],
+  "AFIN": [],
+  "AGAM": [],
+  "ALGY": [],
+  "ANGZ": [],
+  "ANTS": [
+    {
+      "category": "Book",
+      "title": "HP-41 Antennas Solutions",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=389"
+    }
+  ],
+  "AOSX": [
+    {
+      "category": "Manual",
+      "title": "AMC_OS/X Module: System Extensions for the HP-41CX",
+      "reference": "http://hp41.deringenieur.net/file/AMMC_OSX%20Manual.pdf"
+    }
+  ],
+  "APSC": [],
+  "ASM4": [],
+  "ASMB": [],
+  "ASTI": [],
+  "ASTL": [],
+  "ASTT": [
+    {
+      "category": "Manual",
+      "title": "-ASTRO2010 Manual",
+      "reference": "http://hp41.deringenieur.net/file/ASTRO2010.html"
+    }
+  ],
+  "ASTU": [],
+  "AUTO": [
+    {
+      "category": "Manual",
+      "title": "Automatic Start and Cassette Duplication Module",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=599"
+    }
+  ],
+  "AV1Q": [],
+  "AVIA": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Aviation Pac",
+      "reference": "https://literature.hpcalc.org/items/762"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Aviation Pac",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=484"
+    }
+  ],
+  "B52B": [],
+  "BASI": [],
+  "BBDY": [],
+  "BBSC": [],
+  "BCMW": [],
+  "BDRV": [
+    {
+      "category": "Manual",
+      "title": "DERIVITGR Module",
+      "reference": "http://hp41.deringenieur.net/file/DERIVITGR.html"
+    }
+  ],
+  "BELP": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Ellipsoid.html"
+    }
+  ],
+  "BEPT": [],
+  "BESL": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=945"
+    }
+  ],
+  "BIDQ": [],
+  "BIN4": [],
+  "BJMX": [],
+  "BLDR": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=651"
+    }
+  ],
+  "BLJK": [],
+  "BNBD": [],
+  "BPDE": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Partial%20Differential%20Equations.html"
+    }
+  ],
+  "BPRN": [],
+  "BREF": [],
+  "BSEA": [],
+  "BSHM": [],
+  "BSMS": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=361"
+    }
+  ],
+  "BSTZ": [],
+  "BUD1": [],
+  "BUD2": [],
+  "BUD3": [],
+  "BVLU": [],
+  "CAB4": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/file/cab41.zip"
+    }
+  ],
+  "CCDA": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=990"
+    }
+  ],
+  "CCDR": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=414"
+    }
+  ],
+  "CCDX": [],
+  "CENG": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=348"
+    }
+  ],
+  "CEPH": [],
+  "CHEM": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=353"
+    }
+  ],
+  "CHES": [],
+  "CIRC": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=356"
+    }
+  ],
+  "CITY": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/Countries_QRG.pdf"
+    }
+  ],
+  "CIVI": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=352"
+    }
+  ],
+  "CIVU": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=393"
+    }
+  ],
+  "CLIN": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=573"
+    }
+  ],
+  "CLND": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=364"
+    }
+  ],
+  "CMGT": [],
+  "CMT1": [
+    {
+      "category": "Brochure",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=706"
+    }
+  ],
+  "CMT2": [
+    {
+      "category": "Brochure",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=707"
+    }
+  ],
+  "CMT3": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=967"
+    }
+  ],
+  "CNTL": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=428"
+    }
+  ],
+  "COMP": [],
+  "COOQ": [],
+  "CPMZ": [],
+  "CRTO": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/Cripto41_QRG.pdf"
+    }
+  ],
+  "CURV": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=955"
+    }
+  ],
+  "CVPK": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=956"
+    }
+  ],
+  "DA4C": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=744"
+    }
+  ],
+  "DACQ": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=468"
+    }
+  ],
+  "DASM": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=885"
+    }
+  ],
+  "DAVA": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=520"
+    }
+  ],
+  "DBUG": [],
+  "DEMO": [
+    {
+      "category": "Listing",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=654"
+    }
+  ],
+  "DESB": [],
+  "DESV": [],
+  "DEV2": [],
+  "DEVI": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=323"
+    }
+  ],
+  "DIFF": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/DIFFEQTN_Manual.html"
+    }
+  ],
+  "DIGT": [],
+  "DIIL": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=569"
+    }
+  ],
+  "DIVE": [],
+  "DIVN": [],
+  "DMND": [],
+  "DRPS": [],
+  "DRV4": [],
+  "DRVP": [],
+  "DST1": [],
+  "DST5": [],
+  "DSTY": [],
+  "DURR": [],
+  "DURU": [],
+  "DYRK": [],
+  "E-6A": [],
+  "E3AF": [],
+  "E41S": [],
+  "EDTR": [],
+  "EEFD": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/EE%20Filters%20QRG.pdf"
+    }
+  ],
+  "EENG": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=390"
+    }
+  ],
+  "EILP": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=359"
+    }
+  ],
+  "ELIB": [],
+  "ELIX": [],
+  "ENG2": [],
+  "ENS1": [],
+  "EPIE": [],
+  "EPIV": [],
+  "EPRH": [],
+  "EPRM": [],
+  "EPTC": [],
+  "EPTN": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/TRANSNEP.html"
+    }
+  ],
+  "ESML": [],
+  "ETS3": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/ETSII%20Colection.pdf"
+    }
+  ],
+  "ETS4": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/ETSII%20Colection.pdf"
+    }
+  ],
+  "ETS5": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/ETSII%20Colection.pdf"
+    }
+  ],
+  "ETS9": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/ETSII%20Colection.pdf"
+    }
+  ],
+  "EXIO": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=357"
+    }
+  ],
+  "EXTI": [],
+  "FACC": [],
+  "FADV": [],
+  "FAIR": [],
+  "FCS1": [],
+  "FCS2": [],
+  "FCS3": [],
+  "FCST": [],
+  "FDYN": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=343"
+    }
+  ],
+  "FFEE": [],
+  "FINA": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=445"
+    }
+  ],
+  "FLDB": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "FRID": [],
+  "FRML": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://systemyde.com/pdf/Formula_Evaluation.pdf"
+    }
+  ],
+  "FRMX": [],
+  "FRTH": [
+    {
+      "category": "Blueprint",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/FORTH4_Blueprint.pdf"
+    }
+  ],
+  "FSSY": [],
+  "FSTK": [],
+  "FUNP": [],
+  "FUNS": [],
+  "GAME": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=310"
+    }
+  ],
+  "GAMF": [],
+  "GAMX": [],
+  "GASL": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/file/Gasprop%20Manual.pdf"
+    }
+  ],
+  "GASU": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/file/Gasprop%20Manual.pdf"
+    }
+  ],
+  "GEDA": [],
+  "GEOD": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/file/DIFF%20GEOM.html"
+    }
+  ],
+  "GEOM": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=339"
+    }
+  ],
+  "GJMR": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/GJM_REV_2B.PDF"
+    }
+  ],
+  "GLNG": [],
+  "GMAN": [],
+  "GMAQ": [],
+  "GMAS": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/GMAC%20QRG.pdf"
+    }
+  ],
+  "GMAT": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/GMAC%20QRG.pdf"
+    }
+  ],
+  "GMTY": [
+    {
+      "category": "Blueprint",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Geometry_QRG.pdf"
+    }
+  ],
+  "GONH": [],
+  "GRAW": [],
+  "GRF1": [],
+  "GRF3": [],
+  "GRMK": [],
+  "GRVI": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/GraviTime.html"
+    }
+  ],
+  "GSB2": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=366"
+    }
+  ],
+  "GSLV": [],
+  "GSWP": [],
+  "H67G": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://systemyde.com/pdf/67FUN_writeup.pdf"
+    }
+  ],
+  "HCPL": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Hypercomplex%20Manual.html"
+    }
+  ],
+  "HDIS": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/HEPAX2DD.pdf"
+    }
+  ],
+  "HELI": [],
+  "HELP": [],
+  "HEP2": [],
+  "HEP3": [],
+  "HEPR": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/sy41cl.pdf"
+    }
+  ],
+  "HEPX": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=331"
+    }
+  ],
+  "HILM": [],
+  "HILN": [],
+  "HMAT": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=380"
+    }
+  ],
+  "HNDY": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=802"
+    }
+  ],
+  "HOME": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=426"
+    }
+  ],
+  "HORO": [],
+  "HPPA": [],
+  "HSRV": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=455"
+    }
+  ],
+  "HT41": [],
+  "HTAB": [],
+  "HTP5": [],
+  "HVAC": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=565"
+    }
+  ],
+  "HWND": [],
+  "IBOX": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/ICEBOX.pdf"
+    }
+  ],
+  "ICOD": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/ICODE%20Info.pdf"
+    }
+  ],
+  "IDC1": [],
+  "IDC2": [],
+  "IERR": [],
+  "IGSW": [],
+  "ILBF": [],
+  "IMDB": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/sy41cl.pdf"
+    }
+  ],
+  "IMDC": [],
+  "IMS4": [],
+  "INDO": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Philips%20Lighting%20V1.pdf"
+    }
+  ],
+  "INTG": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/INTEGRATOR_MANUAL.html"
+    }
+  ],
+  "IPRT": [],
+  "IRSU": [],
+  "ISEM": [],
+  "ISEN": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=969"
+    }
+  ],
+  "ISOL": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Interchangeable%20Solutions.pdf"
+    }
+  ],
+  "ITCP": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/nutip_manual.pdf"
+    }
+  ],
+  "JARR": [],
+  "JMAT": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/JMB%20MATH%20Manual.html"
+    }
+  ],
+  "JMBA": [],
+  "JMBC": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/JMB_CAL.html"
+    }
+  ],
+  "JMTX": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/JMB-MATRIX%20Manual.html"
+    }
+  ],
+  "K135": [],
+  "KBAU": [],
+  "KBIL": [],
+  "KBIN": [],
+  "KBIO": [],
+  "KNGT": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1297"
+    }
+  ],
+  "KRGM": [],
+  "KRMK": [],
+  "KRSS": [],
+  "L119": [],
+  "LADY": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/ladybug.pdf"
+    }
+  ],
+  "LAIT": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=642"
+    }
+  ],
+  "LAND": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=431"
+    }
+  ],
+  "LBLS": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Labels%20ROM.pdf"
+    }
+  ],
+  "LDSP": [],
+  "LENG": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=351"
+    }
+  ],
+  "LEPH": [],
+  "LNDL": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=344"
+    }
+  ],
+  "LNDR": [],
+  "LOGA": [],
+  "LPAK": [],
+  "LPLC": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=804"
+    }
+  ],
+  "LPLX": [],
+  "LTLN": [],
+  "LUIZ": [],
+  "MAHJ": [],
+  "MASS": [],
+  "MATH": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=311"
+    }
+  ],
+  "MAZZ": [],
+  "MBKF": [],
+  "MCCK": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/AdvancedProgTips.pdf"
+    }
+  ],
+  "MCHN": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=477"
+    }
+  ],
+  "MCMP": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=624"
+    }
+  ],
+  "MDP1": [],
+  "MDP2": [],
+  "MELB": [],
+  "MENG": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=341"
+    }
+  ],
+  "METX": [],
+  "MILE": [],
+  "MIND": [],
+  "MINV": [],
+  "MLBL": [],
+  "MLMU": [],
+  "MLRM": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=592"
+    }
+  ],
+  "MLTI": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/mpl2.pdf"
+    }
+  ],
+  "MONO": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=988"
+    }
+  ],
+  "MPOW": [],
+  "MRTR": [],
+  "MTST": [],
+  "MUEC": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=878"
+    }
+  ],
+  "MWK3": [],
+  "MWK4": [],
+  "MWK5": [],
+  "MWK9": [],
+  "NASA": [],
+  "NAVI": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=292"
+    }
+  ],
+  "NBOD": [],
+  "NCHP": [],
+  "NEA1": [],
+  "NEA3": [],
+  "NEA5": [],
+  "NEXT": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/NEXT2B_QRG_v1.0.pdf"
+    }
+  ],
+  "NFCR": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=619"
+    }
+  ],
+  "NONL": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Non-Linear_QRG.pdf"
+    }
+  ],
+  "NPAC": [],
+  "NTHY": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/NUMBER%20THEORY%20manual.html"
+    }
+  ],
+  "NVCM": [],
+  "NYSB": [],
+  "OBCZ": [],
+  "OILW": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=906"
+    }
+  ],
+  "OPLN": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1299"
+    }
+  ],
+  "OPTO": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=549"
+    }
+  ],
+  "OS41": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/HP-41CV%20Owners%20Handbook%20and%20Prog%20Guide.pdf"
+    }
+  ],
+  "OSBK": [],
+  "OSX3": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/AMMC_OSX_Manual.pdf"
+    }
+  ],
+  "OTRP": [],
+  "P18E": [],
+  "P3BC": [],
+  "PANA": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=358"
+    }
+  ],
+  "PAPZ": [],
+  "PARI": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=616"
+    }
+  ],
+  "PCOD": [],
+  "PETR": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=507"
+    }
+  ],
+  "PHYH": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=342"
+    }
+  ],
+  "PKP1": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/PK_Collection_Manual.pdf"
+    }
+  ],
+  "PKP2": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/PK_Collection_Manual.pdf"
+    }
+  ],
+  "PKP3": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/PK_Collection_Manual.pdf"
+    }
+  ],
+  "PKP4": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/PK_Collection_Manual.pdf"
+    }
+  ],
+  "PKP5": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/PK_Collection_Manual.pdf"
+    }
+  ],
+  "PLAN": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/PLANETS.html"
+    }
+  ],
+  "PLOT": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=442"
+    }
+  ],
+  "PLTO": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/PLANETS.html"
+    }
+  ],
+  "PMLB": [],
+  "POLY": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/polynrom_qrg.pdf"
+    }
+  ],
+  "PPC9": [],
+  "PPCM": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=63"
+    }
+  ],
+  "PPCU": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/PPCAPS.pdf"
+    }
+  ],
+  "PPOK": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41programs.yolasite.com/poker.php"
+    }
+  ],
+  "PRFS": [],
+  "PRIQ": [],
+  "PROG": [],
+  "PRTW": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/US_Ports_Database.pdf"
+    }
+  ],
+  "PSOF": [],
+  "PSRV": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=545"
+    }
+  ],
+  "PWRL": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/POWERCL_BS4_M_Manual.pdf"
+    }
+  ],
+  "PWRX": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/POWERCL_EXT_O_Manual.pdf"
+    }
+  ],
+  "QMTH": [],
+  "QUAT": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Quaternion%20Manual.html"
+    }
+  ],
+  "QUEN": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41programs.yolasite.com/queens.php"
+    }
+  ],
+  "RADA": [],
+  "RCRD": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=309"
+    }
+  ],
+  "RCSN": [],
+  "RCTR": [],
+  "RDII": [],
+  "REAL": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=413"
+    }
+  ],
+  "REGU": [],
+  "RGME": [],
+  "RM32": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/RAMBOX%20Owners%20Manual.pdf"
+    }
+  ],
+  "RMPG": [],
+  "RNDZ": [],
+  "ROAM": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/ROAM-0A%20Manual.pdf"
+    }
+  ],
+  "ROMS": [],
+  "ROMX": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/file/XROM%20ROM%20Manual.pdf"
+    }
+  ],
+  "ROSV": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=529"
+    }
+  ],
+  "RRAP": [],
+  "RUBK": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Rubiks%20QRG.pdf"
+    }
+  ],
+  "SBOX": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/SANDBOX%20Manual.pdf"
+    }
+  ],
+  "SDMO": [],
+  "SEAK": [],
+  "SECY": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=502"
+    }
+  ],
+  "SERI": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/file/Series%20&%20Sums%20QRG.pdf"
+    }
+  ],
+  "SESA": [],
+  "SGSG": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=656"
+    }
+  ],
+  "SHTZ": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/03153%20-%20Spreasheet.pdf"
+    }
+  ],
+  "SIHP": [],
+  "SIMM": [],
+  "SKWD": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=701"
+    }
+  ],
+  "SLVF": [],
+  "SM44": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/SANDMATH_44_4x4_Manual_V5.pdf"
+    }
+  ],
+  "SMCH": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=664"
+    }
+  ],
+  "SMPL": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/SimplexManual.pdf"
+    }
+  ],
+  "SOLS": [],
+  "SPEC": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/SPECTRAL%20MANUAL.html"
+    }
+  ],
+  "SR1B": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/TWD%20Flying%20hp41cx%20%20slantr.pdf"
+    }
+  ],
+  "STAN": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=376"
+    }
+  ],
+  "STAT": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=388"
+    }
+  ],
+  "STEQ": [],
+  "STRE": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=387"
+    }
+  ],
+  "STRU": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=386"
+    }
+  ],
+  "SUD1": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1000"
+    }
+  ],
+  "SUPR": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=794"
+    }
+  ],
+  "SURV": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=392"
+    }
+  ],
+  "SVY2": [],
+  "SWP3": [],
+  "SWP5": [],
+  "SWSW": [],
+  "TAFB": [],
+  "TCHA": [],
+  "TDSI": [],
+  "TDSM": [],
+  "TDSP": [],
+  "TEST": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=379"
+    }
+  ],
+  "TGT2": [],
+  "TGT3": [],
+  "THER": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=503"
+    }
+  ],
+  "TIDW": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/HP-41%20TIDES.html"
+    }
+  ],
+  "TIME": [
+    {
+      "category": "Book",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=365"
+    }
+  ],
+  "TMAX": [],
+  "TMOD": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=363"
+    }
+  ],
+  "TOMS": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=815"
+    }
+  ],
+  "TOOL": [],
+  "TREK": [],
+  "TRIH": [],
+  "TTOU": [],
+  "TVMY": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1176"
+    }
+  ],
+  "UCCD": [],
+  "UCLN": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/USER_CAL.html"
+    }
+  ],
+  "UNIT": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Extending%20UMS.pdf"
+    }
+  ],
+  "UPBB": [],
+  "UPLM": [],
+  "USPS": [],
+  "UTIL": [],
+  "VBRD": [],
+  "VECT": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Vectors%20ROM%20Mini-manual.pdf"
+    }
+  ],
+  "VEGS": [],
+  "VERM": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Manual%20VERMPACK-en.pdf"
+    }
+  ],
+  "VIEW": [],
+  "VMTH": [],
+  "VOI1": [],
+  "VOI3": [],
+  "VOI5": [],
+  "VONK": [
+    {
+      "category": " Reference",
+      "title": "+++todo+++ set title",
+      "reference": "https://coertvonk.com/category/sw/hp41"
+    }
+  ],
+  "WARP": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://systemyde.com/pdf/Warp_Core_Manual.pdf"
+    }
+  ],
+  "WHPX": [],
+  "WLAA": [],
+  "WLP5": [],
+  "WMTH": [],
+  "WMTZ": [],
+  "WORD": [
+    {
+      "category": "QRG",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/Dictionary%20QRG.pdf"
+    }
+  ],
+  "WPNE": [],
+  "WPRT": [],
+  "WRAM": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/RAMBOX%20Owners%20Manual.pdf"
+    }
+  ],
+  "WRAN": [],
+  "WSIR": [],
+  "WWDB": [],
+  "WXMF": [],
+  "WXRO": [],
+  "WXTI": [],
+  "X16C": [],
+  "X4LB": [],
+  "XAPH": [],
+  "XBFR": [],
+  "XCRE": [],
+  "XDBD": [],
+  "XDUL": [],
+  "XFN3": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=444"
+    }
+  ],
+  "XFN5": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=444"
+    }
+  ],
+  "XFVF": [],
+  "XMMA": [],
+  "XMPP": [],
+  "XMTI": [],
+  "XMTW": [],
+  "XMXF": [],
+  "XOSX": [],
+  "XPIY": [],
+  "XPMM": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/CL_Expanded_Memory_Utilities.pdf"
+    }
+  ],
+  "XRGQ": [],
+  "XRPG": [],
+  "XSLV": [],
+  "XSM4": [],
+  "XSTK": [],
+  "XTAT": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/Extended_Stat_Manual.pdf"
+    }
+  ],
+  "XTOO": [],
+  "XTRS": [],
+  "XZ41": [],
+  "YACH": [],
+  "YCLN": [],
+  "YFNF": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "YFNP": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/sy41cl.pdf"
+    }
+  ],
+  "YFNX": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/cl_extreme.pdf"
+    }
+  ],
+  "YFNZ": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/sy41cl.pdf"
+    }
+  ],
+  "YLIB": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/cl_extreme.pdf"
+    }
+  ],
+  "YPRT": [],
+  "YRGA": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/CL_Expanded_Memory_Utilities.pdf"
+    }
+  ],
+  "YSV1": [],
+  "YSV2": [],
+  "YSV3": [],
+  "YUIL": [],
+  "YUPS": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/cl_clone.pdf"
+    }
+  ],
+  "Z4DL": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.systemyde.com/pdf/41z_Deluxe_Manual.pdf"
+    }
+  ],
+  "ZDRV": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://hp41.deringenieur.net/file/ZDERIVE41.html"
+    }
+  ],
+  "ZENR": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=330"
+    }
+  ],
+  "ZEPM": [
+    {
+      "category": "Manual",
+      "title": "+++todo+++ set title",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=336"
+    }
+  ],
+  "ZMAT": [],
+  "ZONE": []
+}
