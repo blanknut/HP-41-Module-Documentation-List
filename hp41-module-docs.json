@@ -325,7 +325,7 @@
       "category": "Book",
       "title": "HP-41 Users' Library Solutions: Chemistry",
       "reference": "https://literature.hpcalc.org/items/825"
-    }
+    },
     {
       "category": "Book",
       "title": "HP-41 Users' Library Solutions: Chemistry",
@@ -355,25 +355,40 @@
   "CIVI": [
     {
       "category": "Book",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Users' Library Solutions: Civil Engineering",
+      "reference": "https://literature.hpcalc.org/items/826"
+    },
+    {
+      "category": "Book",
+      "title": "HP-41 Users' Library Solutions: Civil Engineering",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=352"
     }
   ],
   "CIVU": [
     {
       "category": "Book",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Users' Library Special Collection: Civil Engineering",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=393"
     }
   ],
   "CLIN": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Clinical Lab and Nuclear Medicine Pac",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=573"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Clinical Lab and Nuclear Medicine Pac",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=573"
     }
   ],
   "CLND": [
+    {
+      "category": "Book",
+      "title": "HP-41 Users' Library Solutions: Calendars",
+      "reference": "https://literature.hpcalc.org/items/818"
+    },
     {
       "category": "Book",
       "title": "+++todo+++ set title",
@@ -383,29 +398,49 @@
   "CMGT": [],
   "CMT1": [
     {
+      "category": "Instructions",
+      "title": " CMT-100 Application Module Simulator",
+      "reference": "https://literature.hpcalc.org/items/1193"
+    },
+    {
       "category": "Brochure",
-      "title": "+++todo+++ set title",
+      "title": "CMT-100 Application Module Simulator",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=706"
     }
   ],
   "CMT2": [
     {
+      "category": "Manual",
+      "title": "CMT-200 Data Acquisition and Control System Owner's Manual",
+      "reference": "https://literature.hpcalc.org/items/1195"
+    },
+    {
       "category": "Brochure",
-      "title": "+++todo+++ set title",
+      "title": "CMT-200 Data Acquisition and Control System",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=707"
     }
   ],
   "CMT3": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "CMT-300 Programmable Measurement System Owner's Manual",
+      "reference": "https://calc.fjk.ch/bibliothek/handbucher-und-anleitungen/cmt-300-programmable-measurement-system/"
+    },
+    {
+      "category": "Manual",
+      "title": "CMT-300 Programmable Measurement System Owner's Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=967"
     }
   ],
   "CNTL": [
     {
       "category": "Book",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Users' Library Solutions: Control Systems",
+      "reference": "https://literature.hpcalc.org/items/827"
+    },
+    {
+      "category": "Book",
+      "title": "HP-41 Users' Library Solutions: Control Systems",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=428"
     }
   ],
