@@ -654,7 +654,12 @@
   "FDYN": [
     {
       "category": "Book",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Users' Library Solutions: Fluid Dynamics",
+      "reference": "https://literature.hpcalc.org/items/830"
+    },
+    {
+      "category": "Book",
+      "title": "HP-41 Users' Library Solutions: Fluid Dynamics",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=343"
     }
   ],
@@ -662,14 +667,39 @@
   "FINA": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Financial Decisions Pac",
+      "reference": "https://literature.hpcalc.org/items/766"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Financial Decisions Pac",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=445"
+    },
+    {
+      "category": "Addendum",
+      "title": "HP-41 Financial Decisions Pac Addendum Card",
+      "reference": "https://literature.hpcalc.org/items/2146"
+    },
+    {
+      "category": "QRG",
+      "title": "HP-41 Financial Decisions Pac Quick Reference Card",
+      "reference": "https://literature.hpcalc.org/items/771"
+    },
+    {
+      "category": "QRG",
+      "title": "HP-41 Financial Decisions Pac Quick Reference Card (French)",
+      "reference": "https://literature.hpcalc.org/items/2107"
+    },
+    {
+      "category": "QRG",
+      "title": "HP-41 Financial Decisions Pac Quick Reference Card (Italian)",
+      "reference": "https://literature.hpcalc.org/items/2108"
     }
   ],
   "FLDB": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "41CL Memory Functions",
       "reference": "http://www.systemyde.com/pdf/cl_memory.pdf"
     }
   ],
@@ -677,15 +707,35 @@
   "FRML": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://systemyde.com/pdf/Formula_Evaluation.pdf"
+      "title": "HP-41 Formula Evaluation ROM",
+      "reference": "https://systemyde.com/pdf/Formula_Evaluation_VF.pdf"
     }
   ],
   "FRMX": [],
   "FRTH": [
     {
+      "category": "Manual",
+      "title": "FORTH-41+ Manual",
+      "reference": "https://systemyde.com/pdf/forth41-English.pdf"
+    },
+    {
+      "category": "Post",
+      "title": "HP-41C, The FORTH Edition",
+      "reference": "https://hackaday.com/2022/10/21/hp-41c-the-forth-edition/"
+    },
+    {
+      "category": "Post",
+      "title": "HP-41 FORTH: The most misunderstood Module?",
+      "reference": "https://www.hpmuseum.org/forum/thread-1065.html"
+    },
+    {
+      "category": "Archive",
+      "title": "FORTH related documents collected by Egan Ford",
+      "reference": "http://sense.net/~egan/forth41/"
+    },
+    {
       "category": "Blueprint",
-      "title": "+++todo+++ set title",
+      "title": "FORTH-41 Blueprint",
       "reference": "http://hp41.deringenieur.net/file/FORTH4_Blueprint.pdf"
     }
   ],
@@ -696,7 +746,12 @@
   "GAME": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Games Pac",
+      "reference": "https://literature.hpcalc.org/items/772"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Games Pac",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=310"
     }
   ],
@@ -705,36 +760,51 @@
   "GASL": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://www.hp41.org/file/Gasprop%20Manual.pdf"
+      "title": "HP-41 GASPROP Module: Properties of Technical Gases",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1305"
+    },
+    {
+      "category": "Brochure",
+      "title": "GASPROP Leaflet",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1305"
     }
   ],
   "GASU": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://www.hp41.org/file/Gasprop%20Manual.pdf"
+      "title": "HP-41 GASPROP Module: Properties of Technical Gases",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1305"
+    },
+    {
+      "category": "Brochure",
+      "title": "GASPROP Leaflet",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1305"
     }
   ],
   "GEDA": [],
   "GEOD": [
     {
-      "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://www.hp41.org/file/DIFF%20GEOM.html"
+      "category": "QRG",
+      "title": "Differential Geometry Quick Reference Guide",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1311"
     }
   ],
   "GEOM": [
     {
-      "category": "Book",
-      "title": "+++todo+++ set title",
-      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=339"
+      "category": "Manual",
+      "title": "HP-41 Users' Library Solutions: Geometry",
+      "reference": "https://literature.hpcalc.org/items/833"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Users' Library Solutions: Geometry",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1311"
     }
   ],
   "GJMR": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "The GJM Module for the HP-41",
       "reference": "http://www.systemyde.com/pdf/GJM_REV_2B.PDF"
     }
   ],
@@ -744,21 +814,21 @@
   "GMAS": [
     {
       "category": "QRG",
-      "title": "+++todo+++ set title",
+      "title": "GMAC Financing Program Module",
       "reference": "http://hp41.deringenieur.net/file/GMAC%20QRG.pdf"
     }
   ],
   "GMAT": [
     {
       "category": "QRG",
-      "title": "+++todo+++ set title",
+      "title": "GMAC Financing Program Module",
       "reference": "http://hp41.deringenieur.net/file/GMAC%20QRG.pdf"
     }
   ],
   "GMTY": [
     {
       "category": "Blueprint",
-      "title": "+++todo+++ set title",
+      "title": "Geometry Solutions Book ROM Blueprint",
       "reference": "http://hp41.deringenieur.net/file/Geometry_QRG.pdf"
     }
   ],
@@ -770,15 +840,30 @@
   "GRVI": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "Gravity & Time Manual",
       "reference": "http://hp41.deringenieur.net/file/GraviTime.html"
     }
   ],
   "GSB2": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Users' Library Solutions: Games",
+      "reference": "https://literature.hpcalc.org/items/831"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Users' Library Solutions: Games",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=366"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Users' Library Solutions: Games II",
+      "reference": "https://literature.hpcalc.org/items/832"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Users' Library Solutions: Games II",
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=427"
     }
   ],
   "GSLV": [],
