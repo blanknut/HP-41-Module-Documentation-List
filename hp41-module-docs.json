@@ -798,7 +798,7 @@
     {
       "category": "Manual",
       "title": "HP-41 Users' Library Solutions: Geometry",
-      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=1311"
+      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=339"
     }
   ],
   "GJMR": [
@@ -871,22 +871,47 @@
   "H67G": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "The HP-67 Fun Rom",
       "reference": "http://systemyde.com/pdf/67FUN_writeup.pdf"
     }
   ],
   "HCPL": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "Hypercomplex Manual",
       "reference": "http://hp41.deringenieur.net/file/Hypercomplex%20Manual.html"
     }
   ],
   "HDIS": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://hp41.deringenieur.net/file/HEPAX2DD.pdf"
+      "title": "HEPAX Module Owner's Manual Volume 1 [Remake]",
+      "reference": "https://literature.hpcalc.org/items/1236"
+    },
+    {
+      "category": "Manual",
+      "title": "HEPAX Module Owner's Manual Volume 2 [Remake]",
+      "reference": "https://literature.hpcalc.org/items/1238f"
+    },
+    {
+      "category": "QRG",
+      "title": "HEPAX Module Quick Reference Card [Remake]",
+      "reference": "https://literature.hpcalc.org/items/1241"
+    },
+    {
+      "category": "QRG",
+      "title": "HEPAX Module Quick Reference Card [Online Version]",
+      "reference": "https://qrg41.fjk.ch/hepax.html"
+    },
+    {
+      "category": "Article",
+      "title": "Dossier Modules HEPAX",
+      "reference": "http://www.hp41.net/dossiers/hepax.php"
+    },
+    {
+      "category": "Video",
+      "title": "The Story of the HEPAX Module (Steen Petersen)",
+      "reference": "https://youtu.be/6eB2s-a5HI4"
     }
   ],
   "HELI": [],
@@ -896,15 +921,40 @@
   "HEPR": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "41CL Calculator Manual",
       "reference": "http://www.systemyde.com/pdf/sy41cl.pdf"
     }
   ],
   "HEPX": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=331"
+      "title": "HEPAX Module Owner's Manual Volume 1 [Remake]",
+      "reference": "https://literature.hpcalc.org/items/1236"
+    },
+    {
+      "category": "Manual",
+      "title": "HEPAX Module Owner's Manual Volume 2 [Remake]",
+      "reference": "https://literature.hpcalc.org/items/1238f"
+    },
+    {
+      "category": "QRG",
+      "title": "HEPAX Module Quick Reference Card [Remake]",
+      "reference": "https://literature.hpcalc.org/items/1241"
+    },
+    {
+      "category": "QRG",
+      "title": "HEPAX Module Quick Reference Card [Online Version]",
+      "reference": "https://qrg41.fjk.ch/hepax.html"
+    },
+    {
+      "category": "Article",
+      "title": "Dossier Modules HEPAX",
+      "reference": "http://www.hp41.net/dossiers/hepax.php"
+    },
+    {
+      "category": "Video",
+      "title": "The Story of the HEPAX Module (Steen Petersen)",
+      "reference": "https://youtu.be/6eB2s-a5HI4"
     }
   ],
   "HILM": [],
@@ -912,22 +962,37 @@
   "HMAT": [
     {
       "category": "Book",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Users' Library Solutions: High Level Math",
+      "reference": "https://literature.hpcalc.org/items/835"
+    },
+    {
+      "category": "Book",
+      "title": "HP-41 Users' Library Solutions: High Level Math",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=380"
     }
   ],
   "HNDY": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "Handy Compact User Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=802"
     }
   ],
   "HOME": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Home Management Pac",
+      "reference": "https://literature.hpcalc.org/items/773"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Home Management Pac",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=426"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41 Home Management Pac Quick Reference Card",
+      "reference": "https://literature.hpcalc.org/items/774"
     }
   ],
   "HORO": [],
@@ -935,7 +1000,17 @@
   "HSRV": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "HP-41C Service Manual [Photocopy]",
+      "reference": "https://literature.hpcalc.org/items/882"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41C/CV/CX Service Manual",
+      "reference": "https://literature.hpcalc.org/items/892"
+    },
+    {
+      "category": "Manual",
+      "title": "HP-41C/CV/CX Service Manual",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=455"
     }
   ],
@@ -945,22 +1020,32 @@
   "HVAC": [
     {
       "category": "Book",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 Users' Library Solutions: Heating, Ventilating & Air Conditioning",
+      "reference": "https://literature.hpcalc.org/items/834"
+    },
+    {
+      "category": "Book",
+      "title": "HP-41 Users' Library Solutions: Heating, Ventilating & Air Conditioning",
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=565"
     }
   ],
   "HWND": [],
   "IBOX": [
     {
-      "category": "Manual",
-      "title": "+++todo+++ set title",
+      "category": "QRG",
+      "title": "ICEBOX ROM Quick Reference Guide",
       "reference": "http://hp41.deringenieur.net/file/ICEBOX.pdf"
+    },
+    {
+      "category": "Repository",
+      "title": "HP-41: The ICEBOX rom",
+      "reference": "https://github.com/isene/hp-41_icebox"
     }
   ],
   "ICOD": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "The Melbourne ICODE EPROM Set",
       "reference": "http://hp41.deringenieur.net/file/ICODE%20Info.pdf"
     }
   ],
@@ -972,7 +1057,7 @@
   "IMDB": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "41CL Calculator Manual",
       "reference": "http://www.systemyde.com/pdf/sy41cl.pdf"
     }
   ],
@@ -981,14 +1066,14 @@
   "INDO": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "Philips Indoor Lighting and Cost Calculation Manual",
       "reference": "http://hp41.deringenieur.net/file/Philips%20Lighting%20V1.pdf"
     }
   ],
   "INTG": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "Integrator Manual",
       "reference": "http://hp41.deringenieur.net/file/INTEGRATOR_MANUAL.html"
     }
   ],
