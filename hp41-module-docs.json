@@ -582,10 +582,22 @@
     }
   ],
   "ELIB": [],
-  "ELIX": [],
+  "ELIX": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Elliptic Applications & Orbital Mechanics ROM",
+      "reference": "https://www.systemyde.com/pdf/Orbital_Mechanics_Manual.pdf"
+    }
+  ],
   "ENG2": [],
   "ENS1": [],
-  "EPIE": [],
+  "EPIE": [
+    {
+      "category": "QRG",
+      "title": "HP-41 PIE ROM",
+      "reference": "https://www.systemyde.com/pdf/PIE_ROM_Manual.pdf"
+    }
+  ],
   "EPIV": [],
   "EPRH": [],
   "EPRM": [],
@@ -698,9 +710,9 @@
   ],
   "FLDB": [
     {
-      "category": "Manual",
-      "title": "41CL Memory Functions",
-      "reference": "http://www.systemyde.com/pdf/cl_memory.pdf"
+      "category": "Archive",
+      "title": "41CL Flash YCRC Database",
+      "reference": "https://www.systemyde.com/zip/fldb.zip"
     }
   ],
   "FRID": [],
@@ -871,7 +883,7 @@
   "H67G": [
     {
       "category": "Manual",
-      "title": "The HP-67 Fun Rom",
+      "title": "The HP-67 Fun ROM",
       "reference": "http://systemyde.com/pdf/67FUN_writeup.pdf"
     }
   ],
@@ -917,7 +929,13 @@
   "HELI": [],
   "HELP": [],
   "HEP2": [],
-  "HEP3": [],
+  "HEP3": [
+    {
+      "category": "Manual",
+      "title": "HP-41 HEPAX Plus / HEPAX Apps ROM",
+      "reference": "https://www.systemyde.com/pdf/HEPAX_4H_Extensions.pdf"
+    }
+  ],
   "HEPR": [
     {
       "category": "Manual",
@@ -1059,6 +1077,16 @@
       "category": "Manual",
       "title": "41CL Calculator Manual",
       "reference": "http://www.systemyde.com/pdf/sy41cl.pdf"
+    },
+    {
+      "category": "Source",
+      "title": "IMDB Source Code",
+      "reference": "https://www.systemyde.com/zip/imdb.zip"
+    },
+    {
+      "category": "Manual",
+      "title": "41CL Extreme Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_extreme.pdf"
     }
   ],
   "IMDC": [],
@@ -1535,7 +1563,13 @@
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=309"
     }
   ],
-  "RCSN": [],
+  "RCSN": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Recursion and Modular Math ROM",
+      "reference": "https://www.systemyde.com/pdf/Recursion_on_the_HP-41.pdf"
+    }
+  ],
   "RCTR": [],
   "RDII": [],
   "REAL": [
@@ -1555,7 +1589,13 @@
     }
   ],
   "RMPG": [],
-  "RNDZ": [],
+  "RNDZ": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Random ROM",
+      "reference": "https://www.systemyde.com/pdf/RANDOM_ROM_Manual.pdf"
+    }
+  ],
   "ROAM": [
     {
       "category": "Manual",
@@ -1633,7 +1673,13 @@
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=701"
     }
   ],
-  "SLVF": [],
+  "SLVF": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Equation Solver ROM",
+      "reference": "https://www.systemyde.com/pdf/Equation_Solver_3AB.pdf"
+    }
+  ],
   "SM44": [
     {
       "category": "Manual",
@@ -1891,8 +1937,20 @@
   "XMMA": [],
   "XMPP": [],
   "XMTI": [],
-  "XMTW": [],
-  "XMXF": [],
+  "XMTW": [
+    {
+      "category": "Manual",
+      "title": "HP-41 X-MEM Twin Module",
+      "reference": "https://www.systemyde.com/pdf/XMem-Twin_Manual_V2.pdf"
+    }
+  ],
+  "XMXF": [
+    {
+      "category": "Manual",
+      "title": "HP-41 X-MEM/X-Functions Module",
+      "reference": "https://www.systemyde.com/pdf/XMEM_XFNS_Manual.pdf"
+    }
+  ],
   "XOSX": [],
   "XPIY": [],
   "XPMM": [
@@ -1906,7 +1964,13 @@
   "XRPG": [],
   "XSLV": [],
   "XSM4": [],
-  "XSTK": [],
+  "XSTK": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Double-Down ROM",
+      "reference": "https://www.systemyde.com/pdf/DOUBLE_ROM_Manual.pdf"
+    }
+  ],
   "XTAT": [
     {
       "category": "Manual",
@@ -1918,7 +1982,13 @@
   "XTRS": [],
   "XZ41": [],
   "YACH": [],
-  "YCLN": [],
+  "YCLN": [
+    {
+      "category": "Manual",
+      "title": "41CL Clone Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_clone.pdf"
+    }
+  ],
   "YFNF": [
     {
       "category": "Manual",
@@ -1954,7 +2024,13 @@
       "reference": "http://www.systemyde.com/pdf/cl_extreme.pdf"
     }
   ],
-  "YPRT": [],
+  "YPRT": [
+    {
+      "category": "Manual",
+      "title": "41CL Serial Printer ROM",
+      "reference": "https://www.systemyde.com/pdf/HP41CL_Serial_Printer_ROM.pdf"
+    }
+  ],
   "YRGA": [
     {
       "category": "Manual",
@@ -1963,14 +2039,20 @@
     }
   ],
   "YSV1": [],
-  "YSV2": [],
+  "YSV2": [
+    {
+      "category": "Manual",
+      "title": "HP-41C/CV/CX Service Manual",
+      "reference": "https://www.systemyde.com/pdf/HP-41C-CV-CX_Service_Manual.pdf"
+    }
+  ],
   "YSV3": [],
   "YUIL": [],
   "YUPS": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://www.systemyde.com/pdf/cl_clone.pdf"
+      "title": "41CL Update Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_update.pdf"
     }
   ],
   "Z4DL": [
@@ -2001,6 +2083,117 @@
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=336"
     }
   ],
-  "ZMAT": [],
-  "ZONE": []
+  "ZMAT": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Complex Matrix ROM",
+      "reference": "https://www.systemyde.com/pdf/Complex_Matrix_ROM_Manual.pdf"
+    }
+  ],
+  "ZONE": [],
+  "9BAS": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9BGM": [
+    {
+      "category": "Manual",
+      "title":"41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9CFA": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9CFB": [
+    {
+      "category": "Manual",
+      "title": "41CL Alternate Configuration B",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9CST": [
+    {
+      "category": "Manual",
+      "title": "41CL Custom Configuration",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9INF": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9ELE": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9HIL": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9MAP": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9MEC": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9MTH": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9PLY": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9PRG": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9PWR": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ],
+  "9SCI": [
+    {
+      "category": "Manual",
+      "title": "41CL Memory Functions",
+      "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
+    }
+  ]
 }
