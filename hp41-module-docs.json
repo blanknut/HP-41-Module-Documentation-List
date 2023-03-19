@@ -76,7 +76,13 @@
       "reference": "https://www.systemyde.com/pdf/SANDMatrix_5Y_Manual.pdf"
     }
   ],
-  "4OS4": [],
+  "4OS4": [
+    {
+      "category": "Manual",
+      "title": "OS4 Documentation",
+      "reference": "https://www.systemyde.com/pdf/OS4.pdf"
+    }
+  ],
   "4RAM": [
     {
       "category": "Manual",
@@ -145,7 +151,13 @@
   "ABRD": [],
   "ADV1": [],
   "ADV2": [],
-  "ADVG": [],
+  "ADVG": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Advantage Math ROM Manual",
+      "reference": "https://www.systemyde.com/pdf/Advantage_Math_Manual.pdf"
+    }
+  ],
   "ADVP": [],
   "AEC3": [],
   "AECR": [
@@ -210,7 +222,13 @@
   ],
   "B52B": [],
   "BASI": [],
-  "BBDY": [],
+  "BBDY": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Heat Transfer Applications ROM Manual",
+      "reference": "https://www.systemyde.com/pdf/HEATEX_Manual.pdf"
+    }
+  ],
   "BBSC": [],
   "BCMW": [],
   "BDRV": [
@@ -270,7 +288,13 @@
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=361"
     }
   ],
-  "BSTZ": [],
+  "BSTZ": [
+    {
+      "category": "Manual",
+      "title": "Boost Documentation",
+      "reference": "https://www.systemyde.com/pdf/boost.pdf"
+    }
+  ],
   "BUD1": [],
   "BUD2": [],
   "BUD3": [],
@@ -319,7 +343,13 @@
       "reference": "http://www.hp41.org/LibView.cfm?Command=View&ItemID=348"
     }
   ],
-  "CEPH": [],
+  "CEPH": [
+    {
+      "category": "Manual",
+      "title": "Ephemerides 2023 Febuary Module",
+      "reference": "https://www.systemyde.com/pdf/EPH2023FEB.html"
+    }
+  ],
   "CHEM": [
     {
       "category": "Book",
@@ -598,10 +628,22 @@
       "reference": "https://www.systemyde.com/pdf/PIE_ROM_Manual.pdf"
     }
   ],
-  "EPIV": [],
+  "EPIV": [
+    {
+      "category": "Manual",
+      "title": "HP-41 Epidemics ROM Manual",
+      "reference": "https://www.systemyde.com/pdf/PIE_ROM_Manual.pdf"
+    }
+  ],
   "EPRH": [],
   "EPRM": [],
-  "EPTC": [],
+  "EPTC": [
+    {
+      "category": "QRG",
+      "title": "HP-41 Elliptic Functions and Orthogonal Polynomials",
+      "reference": "https://www.systemyde.com/pdf/Elliptic_Func_QRG.pdf"
+    }
+  ],
   "EPTN": [
     {
       "category": "Manual",
@@ -927,7 +969,13 @@
     }
   ],
   "HELI": [],
-  "HELP": [],
+  "HELP": [
+    {
+      "category": "QRG",
+      "title": "HP-41 Help System Module",
+      "reference": "https://www.systemyde.com/pdf/HP-41_Help_System.pdf"
+    }
+  ],
   "HEP2": [],
   "HEP3": [
     {
@@ -1117,15 +1165,20 @@
   ],
   "ISOL": [
     {
-      "category": "Manual",
-      "title": "+++todo+++ set title",
+      "category": "QRT",
+      "title": "Interchangeable Solutions ROM",
+      "reference": "https://www.systemyde.com/pdf/Equation_Library_Ref.pdf"
+    },
+    {
+      "category": "Program Submittal Formal",
+      "title": "Interchangeable Solutions",
       "reference": "http://hp41.deringenieur.net/file/Interchangeable%20Solutions.pdf"
     }
   ],
   "ITCP": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "HP-41 NutIP TCP/IP Stack User’s Manual",
       "reference": "http://www.systemyde.com/pdf/nutip_manual.pdf"
     }
   ],
@@ -1133,7 +1186,7 @@
   "JMAT": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "JMB MATH Manual",
       "reference": "http://hp41.deringenieur.net/file/JMB%20MATH%20Manual.html"
     }
   ],
@@ -1141,14 +1194,14 @@
   "JMBC": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "JMB Calendar Module",
       "reference": "http://hp41.deringenieur.net/file/JMB_CAL.html"
     }
   ],
   "JMTX": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "JMB MATRIX Manual",
       "reference": "http://hp41.deringenieur.net/file/JMB-MATRIX%20Manual.html"
     }
   ],
@@ -1171,8 +1224,8 @@
   "LADY": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
-      "reference": "http://www.systemyde.com/pdf/ladybug.pdf"
+      "title": "Ladybug Documentation",
+      "reference": "https://www.systemyde.com/pdf/Ladybug1A.pdf"
     }
   ],
   "LAIT": [
@@ -1425,35 +1478,35 @@
   "PKP1": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "PK Collection Manual",
       "reference": "http://www.systemyde.com/pdf/PK_Collection_Manual.pdf"
     }
   ],
   "PKP2": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "PK Collection Manual",
       "reference": "http://www.systemyde.com/pdf/PK_Collection_Manual.pdf"
     }
   ],
   "PKP3": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "PK Collection Manual",
       "reference": "http://www.systemyde.com/pdf/PK_Collection_Manual.pdf"
     }
   ],
   "PKP4": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "PK Collection Manual",
       "reference": "http://www.systemyde.com/pdf/PK_Collection_Manual.pdf"
     }
   ],
   "PKP5": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "PK Collection Manual",
       "reference": "http://www.systemyde.com/pdf/PK_Collection_Manual.pdf"
     }
   ],
@@ -1514,7 +1567,7 @@
   "PRTW": [
     {
       "category": "Manual",
-      "title": "+++todo+++ set title",
+      "title": "US Ports Module Manual",
       "reference": "http://www.systemyde.com/pdf/US_Ports_Database.pdf"
     }
   ],
@@ -1644,9 +1697,9 @@
   ],
   "SERI": [
     {
-      "category": "QRG",
-      "title": "+++todo+++ set title",
-      "reference": "http://www.hp41.org/file/Series%20&%20Sums%20QRG.pdf"
+      "category": "Manual ",
+      "title": "HP-41 Areas, Series & Sums ROM Manual",
+      "reference": "https://www.systemyde.com/pdf/Series_&_Sums_Manual.pdf"
     }
   ],
   "SESA": [],
@@ -1664,7 +1717,13 @@
       "reference": "http://hp41.deringenieur.net/file/03153%20-%20Spreasheet.pdf"
     }
   ],
-  "SIHP": [],
+  "SIHP": [
+    {
+      "category": "QRG",
+      "title": "Solve & Integrate ROM",
+      "reference": "https://www.systemyde.com/pdf/SIROM_Manual.pdf"
+    }
+  ],
   "SIMM": [],
   "SKWD": [
     {
@@ -2101,7 +2160,7 @@
   "9BGM": [
     {
       "category": "Manual",
-      "title":"41CL Memory Functions",
+      "title": "41CL Memory Functions",
       "reference": "https://www.systemyde.com/pdf/cl_memory.pdf"
     }
   ],
